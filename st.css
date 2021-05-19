@@ -1,0 +1,36 @@
+body
+{
+background-color: cornflowerblue;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#rect
+
+{
+    width: 400px;
+    background-color: darkblue;
+    height: 200px;
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+button
+{
+width: 50px;
+height: 50px;
+margin: 10px;
+}
+#b1
+{
+    background-color: purple;
+}
+#b2
+{
+    background-color: green;
+}
+#b3
+{
+    background-color: yellow;
+}
